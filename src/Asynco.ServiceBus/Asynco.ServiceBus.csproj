@@ -11,7 +11,7 @@
     <RootNamespace>Asynco.ServiceBus</RootNamespace>
     <PackageId>Asynco.ServiceBus</PackageId>
     <PackageTags>asynco;remoting;request;reply;microservices;servicebus;rpc;rabbitmq</PackageTags>
-    <PackageProjectUrl>https://github.com/danielegiallonardo/asynco</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/danielegiallonardo/asynco-servicebus</PackageProjectUrl>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageVersion>1.0.4</PackageVersion>
     <Version>1.0.4</Version>
