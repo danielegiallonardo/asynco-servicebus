@@ -29,3 +29,9 @@ services.AddRemoting(options =>
 		})
 	}))
 ```
+
+
+More on the remoting transports in the Samples.
+
+## Installing via NuGet
+`Install-Package Asynco.ServiceBus`
